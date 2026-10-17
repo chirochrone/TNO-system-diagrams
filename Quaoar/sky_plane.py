@@ -705,7 +705,7 @@ ax.annotate(
 )
 
 ax.set_xlabel("East ←  Offset (arcsec)  → West", fontsize=fs_axis)
-ax.set_ylabel("North ↑  Offset (arcsec)  ↓ South", fontsize=fs_axis)
+ax.set_ylabel("South ←  Offset (arcsec)  → North", fontsize=fs_axis)
 
 # Secondary axes: convert angular offsets to projected distances at Quaoar.
 # At the geocentric distance delta_km, 1 arcsec corresponds to this many km.
