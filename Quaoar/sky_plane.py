@@ -55,8 +55,8 @@ AU_KM = 149597870.7
 ARCSEC_PER_RAD = 206264.806247
 
 # Quaoar's preferred occultation-derived dimensions
-# Full diameters in km (Proudfoot et al. 2025)
-QUAOAR_AXES = np.array([1166.6, 1110.6, 1020.0]) / 2.0
+# Full diameters in km (Margoti et al. 2026b)
+QUAOAR_AXES = np.array([1241.4, 1093.0, 1023.0]) / 2.0
 
 # Quaoar pole: ring pole used as a proxy for the spin pole
 QUAOAR_POLE_RA = 259.5
